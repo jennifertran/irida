@@ -101,12 +101,12 @@ tools:
   tool_panel_section_id: "irida"
   install_tool_dependencies: true
 
-  ### Tools for StarAMR v0.4.0 ###
+  ### Tools for StarAMR v0.5.0 ###
 - name: "staramr"
   owner: "nml"
   tool_shed_url: "https://toolshed.g2.bx.psu.edu/"
   revisions:
-  - "930893c83a1a"
+  - "3c09557ac425"
   tool_panel_section_id: "irida"
   install_tool_dependencies: true
 
